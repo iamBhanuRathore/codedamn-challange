@@ -1,3 +1,3 @@
-tabs: ["src/App.jsx", "src/main.jsx", "src/App.css"]
+tabs: ["frontend/src/App.jsx", "frontend/src/main.jsx", "frontend/src/App.css"]
 terminals: ["bun install && bun run dev"]
 run-button: bun run dev
