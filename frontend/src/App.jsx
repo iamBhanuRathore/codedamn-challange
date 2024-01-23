@@ -1,10 +1,9 @@
 import "./App.css";
-import Demo from "./demo.tsx";
 
 function App() {
   return (
     <>
-      <Demo />
+      <p>Hello Students</p>
     </>
   );
 }
